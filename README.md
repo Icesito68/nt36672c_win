@@ -10,4 +10,4 @@ This driver is not finished.
 It contains debug code and might be missing comments as well.
 Tracing has been replaced with KdPrintEx for various reason making development easier on some versions of Windows.
 
-Have fun =)
+Have fun =). 
